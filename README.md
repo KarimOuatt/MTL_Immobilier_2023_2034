@@ -24,7 +24,7 @@ L'approche modulaire a été privilégiée pour garantir la lisibilité et la ma
 
 ## Tableau de Bord (Power BI)
 ![Capture d'écran du Dashboard Power BI](demo_mtlpro20232024.gif)
-*(Note : Voir la capture d'écran complète dans les fichiers du dépôt)*
+
 
 Le tableau de bord interactif permet de :
 * Filtrer les montants globaux par année.
