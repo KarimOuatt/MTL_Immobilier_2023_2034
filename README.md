@@ -22,7 +22,7 @@ L'approche modulaire a été privilégiée pour garantir la lisibilité et la ma
 * `vue_stg_2024` : Staging et formatage spécifique aux données de l'année 2024.
 * `vue_transac_mtl_clean` : Fusion des tables propres (`UNION ALL`) et ultime nettoyage des caractères (UTF-8).
 
-## 📊 Tableau de Bord (Power BI)
+## Tableau de Bord (Power BI)
 ![Capture d'écran du Dashboard Power BI](demo_mtlpro20232024.gif)
 *(Note : Voir la capture d'écran complète dans les fichiers du dépôt)*
 
@@ -31,7 +31,7 @@ Le tableau de bord interactif permet de :
 * Analyser la répartition financière par arrondissement (Histogramme).
 * Visualiser la proportion des montants par type de transaction (Treemap).
 
-## 👨‍💻 Auteur
+## Auteur
 **Abdoul Karim Ouattara**
 * LinkedIn : [linkedin.com/in/abdoulkaouatt](https://linkedin.com/in/abdoulkaouatt)
 * GitHub : [github.com/KarimOuatt](https://github.com/KarimOuatt)
